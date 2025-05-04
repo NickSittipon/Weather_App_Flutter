@@ -20,4 +20,7 @@ A simple Flutter app that shows the current weather based on the user's location
    ```bash
    flutter pub get
 
-![App Screenshot](assets/Screenshot.png)
+<p align="center">
+  <img src="assets/Screenshot.png" width="300" />
+</p>
+
